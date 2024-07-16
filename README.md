@@ -29,10 +29,10 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 ## Model and Embeddings Installation
 
 - Model: - 
-        llama-2-7b-chat.ggmlv3.q4_0.bin (https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
+- llama-2-7b-chat.ggmlv3.q4_0.bin (https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 
 - Embedding Model: - 
-        sentence-transformers/all-MiniLM-L6-v2 (https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- sentence-transformers/all-MiniLM-L6-v2 (https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 ## Clone the Repository
 
