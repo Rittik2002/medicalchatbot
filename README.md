@@ -39,6 +39,10 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 - sentence-transformers/all-MiniLM-L6-v2 (https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 
+## Demo
+
+![Demo](Images/Demo.png)
+
 ## Clone the Repository
 
    ```bash
