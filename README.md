@@ -20,7 +20,7 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 
 ## Workflow
 
-![Workflow](images/Workflow.png)
+![Workflow](Images/Workflow.png)
 
 ## Training Data
 
