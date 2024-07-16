@@ -10,7 +10,6 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 - Integrates a language model for generating answers to user queries.
 - Utilizes Streamlit for a user-friendly web interface.
 
-## Setup Instructions
 
 ### Prerequisites
 
@@ -25,20 +24,19 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 
 ## Database
 
-# Pinecone
-- https://www.pinecone.io/
+- Pinecone (https://www.pinecone.io/)
 
-### Installation
+## Installation
 
-## Model:
+- Model:
 
 - llama-2-7b-chat.ggmlv3.q4_0.bin (https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
 
-## Embedding Model
+- Embedding Model
 
 - sentence-transformers/all-MiniLM-L6-v2 (https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
-1. **Clone the Repository**
+## Clone the Repository
 
    ```bash
    git clone https://github.com/Rittik2002/medicalchatbot.git
