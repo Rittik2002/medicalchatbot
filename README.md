@@ -24,7 +24,7 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 
 ## Training Data
 
-- The GALE ENCYCLOPEDIA of MEEDICINE Second Edition Volume 1 (https://github.com/Rittik2002/medicalchatbot/tree/main/data)
+- The GALE ENCYCLOPEDIA of MEDICINE Second Edition Volume 1 (https://github.com/Rittik2002/medicalchatbot/tree/main/data)
 
 ## Database
 
