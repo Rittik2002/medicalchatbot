@@ -18,9 +18,9 @@ This project is a Medical ChatBot system that allows users to ask questions abou
 - Pinecone account and API key
 - Hugging Face account and model access
 
-## Related Images
+## Workflow
 
-![Workflow](medicalchatbot\images\Workflow.png)
+![Workflow](medicalchatbot/images/Workflow.png)
 
 ## Training Data
 
